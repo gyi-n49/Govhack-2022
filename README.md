@@ -3,6 +3,7 @@
   <img src="./teamLogo.png" width="20%" height="20%">
 </div>
 
+<center>[Link to project video](https://youtu.be/)</center>
 [Link to project video](https://youtu.be/)
 
 ## Design Background
