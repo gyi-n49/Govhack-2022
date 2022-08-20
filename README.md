@@ -1,6 +1,6 @@
 # Find your nature neighbors
 <div align="left">
-  <img src="./teamLogo.png" width="30%" height="30%">
+  <img src="./teamLogo.png" width="10%" height="10%">
 </div>
 
 [Link to project video](https://youtu.be/)
