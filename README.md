@@ -1,5 +1,5 @@
 # Find your nature neighbors
-<div align="left">
+<div align="center">
   <img src="./teamLogo.png" width="10%" height="10%">
 </div>
 
