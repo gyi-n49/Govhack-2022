@@ -7,7 +7,7 @@
 
 ## Design Background
 <div align="center">
-  <img src="./Loss_of_Habitat.jpeg" width="80%" height="60%">
+  <img src="./Loss_of_Habitat.jpeg" width="75%" height="55%">
 </div>
 
 Due to the deterioration of the environment, the occurrence of extreme weather is getting more frequently, which is closely related to continuous industrial development by human beings. It is due to the neglection of protection to the ecological environment that many species lost their habitat. Hence, how to awaken people to protect animals has become one of the essential issues in this era.
@@ -29,7 +29,7 @@ Combining the games with education may leave a deeper impression on them. Theref
 
 ## Low prototype of the App
 <div align="center">
-  <img src="./Low_prototype.jpeg" width="50%" height="50%">
+  <img src="./Low_prototype.jpeg" width="55%" height="55%">
 </div>
 
 ## High Fidelity interface design
