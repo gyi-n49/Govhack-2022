@@ -28,8 +28,8 @@ Australia is a land which is famous for the biodiversity of both flora and fauna
 Combining the games with education may leave a deeper impression on them. Therefore, we will take gaming as the main function of the app, while education and social media can also be realized in it. Teenagers using the app are able to be close to the nature , enrich knowledge about flora and fauna, learn the propensity of endangered animals and make friends with peers when using the application.  
 
 ## Low prototype of the App
-<div align="center">
-  <img src="./Low_prototype.jpeg" width="50%" height="50%">
+<div align="left">
+  <img src="./Low_prototype.jpeg" width="30%" height="30%">
 </div>
 
 ## High Fidelity interface design
