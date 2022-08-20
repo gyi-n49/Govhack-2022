@@ -1,4 +1,7 @@
 # Find your nature neighbors
+<div align="center">
+  <img src="./teamLogo.png" width="100%" height="100%">
+</div>
 
 [Link to project video](https://youtu.be/)
 
