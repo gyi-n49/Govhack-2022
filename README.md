@@ -31,5 +31,5 @@ Combining the games with education may leave a deeper impression on them. Theref
 
 ## High Fidelity interface design
 <div align="center">
-  <img src="./Low_prototype.jpeg" width="50%" height="50%">
+  <img src="./High_fidelity_interface" width="100%" height="100%">
 </div>
