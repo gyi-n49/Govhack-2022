@@ -10,7 +10,7 @@
   <img src="./Loss_of_Habitat.jpeg" width="80%" height="55%">
 </div>
 
-Due to the deterioration of the environment, the occurrence of extreme weather is getting more frequently, which is closely related to continuous industrial development by human beings. It is due to the neglect of protection of the ecological environment that many species lost their habitat. Hence, how to awaken people to protect animals has become one of the essential issues in this era.
+Due to the deterioration of the environment, the occurrence of extreme weather is getting more frequently, which is closely related to continuous industrial development. It is due to the neglect of protection of the ecological environment that many species lost their habitat. Hence, how to awaken people to protect animals has become one of the essential issues in this era.
 
 Compared to making the minds of adults change, cultivating the next generation, who represents the future, to respect the ecological balance is far more vital. Also, teenagers and children are more willing to accept some fresh thoughts. Hence, we devote ourselves to designing the app for the group of children and teenagers.
 
