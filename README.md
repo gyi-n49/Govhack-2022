@@ -14,13 +14,13 @@ Due to the deterioration of the environment, the occurrence of extreme weather i
 
 Compared to making the minds of adults change, cultivating the next generation, who represents the future, to respect the ecological balance is far more vital. Also, teenagers and children are more willing to accept some fresh thoughts. Hence, we devote ourselves to designing the app for the group of children and teenagers.
 
-## What we aim to do?
+## What do we aim to do?
 
 Our design aims to make ACT teenagers aware of protecting the Flora and Fauna around them and promote the concept of harmonious coexistence between people and nature.
 
 Australia is a land that is famous for the biodiversity of both flora and fauna. However, some people, especially teenagers may know little concrete information about animals and plants. If they do not have basic knowledge of the species, it is quite hard to make them willing to have further ideas to protect the species.
 
-## Why we design it as a game?
+## Why do we design it as a game?
 <div  align="center">
   <img src="./storyboard/storyboard.png" width="90%" height="90%">
 </div>
