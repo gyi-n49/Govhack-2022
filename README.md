@@ -29,7 +29,6 @@ Combining the games with education may leave a deeper impression on them. Theref
 
 ## Design Considerations
 When designing this app we thought there were a few things to focus on：
-
 1. Ensure that the geographic location of threatened animals is not exposed. We need to ensure that the habitat of threatened animals is not disturbed too much. This balance of exploration and conservation is key to ensuring that the game does not result in the man-made destruction of habitats of threatened animals and plants.
 
 2. Ensure the simplicity of the interface and the ease of getting started.
