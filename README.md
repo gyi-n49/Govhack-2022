@@ -29,9 +29,14 @@ Combining the games with education may leave a deeper impression on them. Theref
 
 ## Design Considerations
 When designing this app we thought there were a few things to focus on：
+
 1. Ensure that the geographic location of threatened animals is not exposed. We need to ensure that the habitat of threatened animals is not disturbed too much. This balance of exploration and conservation is key to ensuring that the game does not result in the man-made destruction of habitats of threatened animals and plants.
 
 2. Ensure the simplicity of the interface and the ease of getting started.
+
+3. Ensure the interface is interesting and interactive between users.
+
+4. Ensure that the game style is fresh and simple, but there is no lack of contemporary sense, so that children and teenagers are accepted style interface.
 
 ## Low prototype of the App
 <div align="center">
@@ -58,3 +63,5 @@ This dataset provides us with valuable information about endangered plants and a
 - [Proportion of pre-clear threatened fauna habitat that is remnant vegetation](https://www.data.qld.gov.au/dataset/soe2020-threatened-fauna-species-habitat/resource/2020-indicator-1-4-1-3) By comparing the species of threatened animals in this database with the Database of species in Queensland, it is possible to more quickly filter out which species are threatened in Queensland and to mark a more comprehensive range map. To avoid disturbance of these habitats, there are no rewards in the app for scanning rare animals in the habitat, and a pop-up message about legal action for harming rare animals.
 
 - [Database of species in Queensland](https://bie.ala.org.au/search?fq=rank%3A%22species%22&sortField=score&dir=desc&q=queensland+species) Load the database of the council where the user is currently located by changing the location information based on their location. If the user is in Queensland, then the Database of species in Queensland will be loaded, so that the user can know what animals are around them and their approximate habitat range even in Queensland. Users can also send information about the species they have scanned and its habitat to the relevant authorities for them to update the Database of species in Queensland.
+
+Combined with these databases, it is possible to build a network of games throughout Australia. No matter where the user is, he or she can point to what plants and animals are around and what plants and animals are threatened or harmful in the surrounding area, and such a design will enable all children and young people in Australia to participate in this game. Sharing among friends and updates from people can increase the attention of the game in the community, and make people understand that these plants and animals, which are usually found in encyclopedias, may be just next to us.
