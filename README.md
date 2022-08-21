@@ -16,9 +16,9 @@ Compared to making the minds of adults change, cultivating the next generation, 
 
 ## What we aim to do?
 
-Our design aims to make ACT teenagers be aware of protecting the Flora and Fauna around them and promote the concept of harmonious coexistence between people and nature.
+Our design aims to make ACT teenagers aware of protecting the Flora and Fauna around them and promote the concept of harmonious coexistence between people and nature.
 
-Australia is a land which is famous for the biodiversity of both flora and fauna. However, some people, especially teenagers may know little about the concrete information of the animals and plants. If they do not have basic knowledge of the species, it is quite hard to make them be willing to have further ideas to protect the species. 
+Australia is a land that is famous for the biodiversity of both flora and fauna. However, some people, especially teenagers may know little concrete information about animals and plants. If they do not have basic knowledge of the species, it is quite hard to make them willing to have further ideas to protect the species.
 
 ## Why we design it as a game?
 <div  align="center">
