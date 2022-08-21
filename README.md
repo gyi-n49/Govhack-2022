@@ -27,6 +27,13 @@ Australia is a land that is famous for the biodiversity of both flora and fauna.
 <p>Considering our target audience is a group of children and teenagers, we hold the view that the traditional mode of inputting knowledge, such as paper books or a visit to the museum, might not make them feel interested.</p>
 Combining the games with education may leave a deeper impression on them. Therefore, we will take gaming as the main function of the app, while education and social media can also be realized in it. Teenagers using the app can be close to nature, enrich knowledge about flora and fauna, learn about the propensity of endangered animals, and make friends with peers when using the application.
 
+## Design Considerations
+When designing this app we thought there were a few things to focus on：
+
+1, Ensure that the geographic location of threatened animals is not exposed. We need to ensure that the habitat of threatened animals is not disturbed too much. This balance of exploration and conservation is key to ensuring that the game does not result in the man-made destruction of habitats of threatened animals and plants.
+
+2, Ensure the simplicity of the interface and the ease of getting started.
+
 ## Low prototype of the App
 <div align="center">
   <img src="./Low_prototype.jpeg" width="55%" height="55%">
