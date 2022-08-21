@@ -38,6 +38,8 @@ When designing this app we thought there were a few things to focus on：
 
 4. Ensure that the game style is fresh and simple, but there is no lack of contemporary sense, so that children and teenagers are accepted style interface.
 
+5. Ensure that the science is authoritative as well as timely, so that young people and children can learn the right and interesting knowledge
+
 ## Low prototype of the App
 <div align="center">
   <img src="./Low_prototype.jpeg" width="55%" height="55%">
